@@ -179,4 +179,5 @@ classDiagram
 | Bonus audio | `SoundManager` + `assets/sounds/*.wav` (BGM, lompat, skor, tabrakan) |
 
 ## 📷 Dokumentasi Program Dijalankan
+https://github.com/user-attachments/assets/d93c69b8-b86d-4fbd-96ce-8432defdf30f
 
